@@ -1,3 +1,3 @@
 # zip
 Zipファイルを作成します
-cargo run {file name}で実行
+cargo run {zip name} {file name}で実行
